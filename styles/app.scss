@@ -1,3 +1,10 @@
 $fa-font-path: '//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
+$c-white: rgba(255, 255, 255, 1);
+$c-navbar-top: rgba(45, 62, 79, 1);
+$c-hero-blue: rgba(47, 129, 183, 1);
+$c-navbar-bottom: rgba(34, 34, 34, 1);
+$c-blog-red: rgba(229, 77, 66, 1);
+$fa-font-path: '//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts';
 @import 'font-awesome/scss/font-awesome';
 @import 'box-sizing';
+@import 'navbar';
