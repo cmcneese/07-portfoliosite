@@ -1,9 +1,9 @@
-.navbar {
+.nav-bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
-  background: $c-navbar-top;
+  background: $c-nav-bar-top;
   color: $c-white;
 
   &__right {
@@ -30,7 +30,7 @@
   align-items: center;
   justify-content: center;
   padding: 2rem;
-  background: $c-navbar-bottom;
+  background: $c-nav-bar-bottom;
   color: $c-white;
   font-size: 2.5rem;
 
